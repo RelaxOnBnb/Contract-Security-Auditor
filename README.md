@@ -42,7 +42,7 @@ A comprehensive web application for auditing smart contracts and assessing token
 
    ```bash
    git clone https://github.com/RelaxOnBnb/Contract-Security-Auditor.git
-   cd audit-scanner
+   cd Contract-Security-Auditor
    ```
 
 2. Install dependencies:
