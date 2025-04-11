@@ -2,6 +2,8 @@
 
 A comprehensive web application for auditing smart contracts and assessing token risks for DEX traders investing in memecoins. This tool provides detailed insights on contract vulnerabilities, security risks, and token details.
 
+![Screenshot 2025-04-10 222917](https://github.com/user-attachments/assets/5523f01c-25c4-43f2-b67b-6a67f2dc85c0)
+
 ## Features
 
 - **Smart Contract Scanner**: Upload or paste smart contract code to analyze for vulnerabilities
@@ -16,12 +18,16 @@ A comprehensive web application for auditing smart contracts and assessing token
 - **Visual Risk Representation**: Dynamic pie charts and visual indicators for clear risk assessment
 - **Detailed Reports**: Download comprehensive audit reports for reference
 
+![Screenshot 2025-04-10 222956](https://github.com/user-attachments/assets/cf90be44-7cd6-4d95-8359-a7ce7d0499eb)
+
+![Screenshot 2025-04-10 223023](https://github.com/user-attachments/assets/4b0dd1cb-6509-4e8c-93e3-5966ad324bdc)
+
 ## Technology Stack
 
 - **Frontend**: React.js / Next.js
 - **Styling**: Tailwind CSS
-- **Backend**: Node.js/Express (planned)
-- **Database**: MongoDB (planned)
+- **Backend**: Node.js/Express
+- **Database**: MongoDB
 - **Blockchain Integration**: Web3.js / ethers.js
 - **APIs Integration**:
   - Blockchain data providers (Alchemy, Infura, QuickNode)
